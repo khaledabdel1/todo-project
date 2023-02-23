@@ -1,0 +1,23 @@
+h1{
+    position: relative;
+    left: 600px;
+    color: rebeccapurple;    
+}
+p{
+    color: brown;
+ }
+ img{
+    position: relative;
+    left: 550px;
+ }
+ table{
+    position: relative;
+    left: 600px;
+    border: rebeccapurple solid 5px;
+ }
+ th{
+    color: brown;
+ }
+ td{
+    color:blue;
+ }
