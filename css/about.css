@@ -1,0 +1,25 @@
+h1{
+    position: relative;
+    left: 600px ;
+    color: brown;
+}
+img{
+    position: relative;
+    left: 550px;
+}
+p{
+    color: brown;
+}
+form{
+    position: relative;
+    left: 500px;
+    color: blue;
+    margin: 20px;
+}
+input{
+    color: brown;
+}
+button{
+    position: relative;
+    left: 600px;
+}
